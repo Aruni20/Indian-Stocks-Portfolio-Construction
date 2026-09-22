@@ -1,0 +1,196 @@
+sector,method,stock,weight
+Auto,minimum_variance,Maruti Suzuki,0.2648390094178712
+Auto,minimum_variance,Mahindra & Mahindra,0.014728779198266215
+Auto,minimum_variance,Tata Motors,0.011989115163460006
+Auto,minimum_variance,Hero MotoCorp,0.15880051745852353
+Auto,minimum_variance,Eicher Motors,0.06860031754938735
+Auto,minimum_variance,Bharat Forge,0.021982295267040725
+Auto,minimum_variance,Balkrishna Industries,0.09147367035203863
+Auto,minimum_variance,Ashok Leyland,0.007079818225197081
+Auto,minimum_variance,MRF,0.36050647736821545
+Auto,maximum_sharpe,Maruti Suzuki,0.013581679159641796
+Auto,maximum_sharpe,Mahindra & Mahindra,0.4811214108158666
+Auto,maximum_sharpe,Tata Motors,0.19475950115346752
+Auto,maximum_sharpe,Hero MotoCorp,0.006565106203165428
+Auto,maximum_sharpe,Eicher Motors,0.10170067235575843
+Auto,maximum_sharpe,Bharat Forge,0.09293123164852966
+Auto,maximum_sharpe,Balkrishna Industries,0.004367970290641924
+Auto,maximum_sharpe,Ashok Leyland,0.08463521091830044
+Auto,maximum_sharpe,MRF,0.02033721745462808
+Auto,eigen,Maruti Suzuki,0.11182021952974561
+Auto,eigen,Mahindra & Mahindra,0.11881843508179189
+Auto,eigen,Tata Motors,0.12285421006546085
+Auto,eigen,Hero MotoCorp,0.10754059420708413
+Auto,eigen,Eicher Motors,0.10995695810965034
+Auto,eigen,Bharat Forge,0.11009448187399147
+Auto,eigen,Balkrishna Industries,0.09661593995718282
+Auto,eigen,Ashok Leyland,0.12323949243617946
+Auto,eigen,MRF,0.09905966873891338
+Banking,minimum_variance,HDFC Bank,0.35953233750908603
+Banking,minimum_variance,ICICI Bank,0.13158901843781376
+Banking,minimum_variance,Kotak Mahindra Bank,0.2247091322737881
+Banking,minimum_variance,Axis Bank,0.06261813209097428
+Banking,minimum_variance,State Bank of India,0.047100744502875616
+Banking,minimum_variance,IndusInd Bank,0.00647119841330018
+Banking,minimum_variance,AU Small Finance Bank,0.0720278117613727
+Banking,minimum_variance,Bandhan Bank,0.016684033659969816
+Banking,minimum_variance,Federal Bank,0.005278277808020772
+Banking,minimum_variance,IDFC First Bank,0.07398931354279857
+Banking,maximum_sharpe,HDFC Bank,0.008799868305491324
+Banking,maximum_sharpe,ICICI Bank,0.4054117923509307
+Banking,maximum_sharpe,Kotak Mahindra Bank,0.008122565704140432
+Banking,maximum_sharpe,Axis Bank,0.07204301952018874
+Banking,maximum_sharpe,State Bank of India,0.25090630511464107
+Banking,maximum_sharpe,IndusInd Bank,0.00036760066731470565
+Banking,maximum_sharpe,AU Small Finance Bank,0.15395438696088737
+Banking,maximum_sharpe,Bandhan Bank,0.003920805396087381
+Banking,maximum_sharpe,Federal Bank,0.07539371722860047
+Banking,maximum_sharpe,IDFC First Bank,0.021079938751717747
+Banking,eigen,HDFC Bank,0.12369474104706864
+Banking,eigen,ICICI Bank,0.05540680382318739
+Banking,eigen,Kotak Mahindra Bank,0.13842734159100775
+Banking,eigen,Axis Bank,0.12054347300375144
+Banking,eigen,State Bank of India,0.12777614137692236
+Banking,eigen,IndusInd Bank,0.043908166783920066
+Banking,eigen,AU Small Finance Bank,0.2939136628952268
+Banking,eigen,Bandhan Bank,0.004196426458019989
+Banking,eigen,Federal Bank,0.09178263457336003
+Banking,eigen,IDFC First Bank,0.0003506084475355508
+Consumer Durable,minimum_variance,Titan,0.1353060684578918
+Consumer Durable,minimum_variance,Crompton,0.07873200395183393
+Consumer Durable,minimum_variance,Havells,0.07289188854973166
+Consumer Durable,minimum_variance,Voltas,0.028211481536511943
+Consumer Durable,minimum_variance,Dixon,0.012379367019412833
+Consumer Durable,minimum_variance,Bata India,0.1844999798014736
+Consumer Durable,minimum_variance,Relaxo,0.1757012100824609
+Consumer Durable,minimum_variance,Kajaria,0.13593917207617276
+Consumer Durable,minimum_variance,Rajesh Exports,0.06071552664301786
+Consumer Durable,minimum_variance,Whirlpool,0.11562330188149272
+Consumer Durable,maximum_sharpe,Titan,0.3111788388834412
+Consumer Durable,maximum_sharpe,Crompton,0.017500283531206626
+Consumer Durable,maximum_sharpe,Havells,0.15431268793598027
+Consumer Durable,maximum_sharpe,Voltas,0.013113594112515295
+Consumer Durable,maximum_sharpe,Dixon,0.3296876534824223
+Consumer Durable,maximum_sharpe,Bata India,0.002599502298160971
+Consumer Durable,maximum_sharpe,Relaxo,0.0010834454961678387
+Consumer Durable,maximum_sharpe,Kajaria,0.14403399329022887
+Consumer Durable,maximum_sharpe,Rajesh Exports,0.0005044791638905449
+Consumer Durable,maximum_sharpe,Whirlpool,0.02598552180598612
+Consumer Durable,eigen,Titan,0.11239726000173947
+Consumer Durable,eigen,Crompton,0.09547259809660001
+Consumer Durable,eigen,Havells,0.1226563072697864
+Consumer Durable,eigen,Voltas,0.11829707552631691
+Consumer Durable,eigen,Dixon,0.10635564585724472
+Consumer Durable,eigen,Bata India,0.12035555011386882
+Consumer Durable,eigen,Relaxo,0.08921067438621846
+Consumer Durable,eigen,Kajaria,0.08673066399816728
+Consumer Durable,eigen,Rajesh Exports,0.06361266309685852
+Consumer Durable,eigen,Whirlpool,0.08491156165319937
+FMCG,minimum_variance,ITC,0.23232348746013545
+FMCG,minimum_variance,Nestle India,0.2033454270694225
+FMCG,minimum_variance,Tata Consumer,0.012418040335727461
+FMCG,minimum_variance,Britannia,0.1656383656490686
+FMCG,minimum_variance,Dabur,0.16740023005844015
+FMCG,minimum_variance,Godrej Consumer,0.004418622450515359
+FMCG,minimum_variance,Marico,0.05328274108645108
+FMCG,minimum_variance,Jubilant Foodworks,0.05597574286911024
+FMCG,minimum_variance,Colgate-Palmolive,0.10519734302112912
+FMCG,maximum_sharpe,ITC,0.3937524572547219
+FMCG,maximum_sharpe,Nestle India,0.020362955459974005
+FMCG,maximum_sharpe,Tata Consumer,0.2810888591636141
+FMCG,maximum_sharpe,Britannia,0.042943544383391395
+FMCG,maximum_sharpe,Dabur,0.0025101954528324354
+FMCG,maximum_sharpe,Godrej Consumer,0.04946602023894501
+FMCG,maximum_sharpe,Marico,0.148319131685822
+FMCG,maximum_sharpe,Jubilant Foodworks,0.048808215097130236
+FMCG,maximum_sharpe,Colgate-Palmolive,0.012748621263569047
+FMCG,eigen,ITC,0.18527261175858054
+FMCG,eigen,Nestle India,0.08756120592727354
+FMCG,eigen,Tata Consumer,0.11469131630253969
+FMCG,eigen,Britannia,0.09511736224499553
+FMCG,eigen,Dabur,0.08094855498121202
+FMCG,eigen,Godrej Consumer,0.023650151181055533
+FMCG,eigen,Marico,0.05248312489585625
+FMCG,eigen,Jubilant Foodworks,0.26501614185352484
+FMCG,eigen,Colgate-Palmolive,0.09525953085496211
+Healthcare,minimum_variance,Sun Pharma,0.29106588890895213
+Healthcare,minimum_variance,Dr Reddy's,0.21454708767108163
+Healthcare,minimum_variance,Divi's,0.05781195269267375
+Healthcare,minimum_variance,Cipla,0.10050875976996913
+Healthcare,minimum_variance,Apollo Hospitals,0.20542789541576784
+Healthcare,minimum_variance,Lupin,0.0006349827999519872
+Healthcare,minimum_variance,Aurobindo Pharma,0.014377814038811816
+Healthcare,minimum_variance,Laurus Labs,0.0029980826395475304
+Healthcare,minimum_variance,Biocon,0.07508006682985664
+Healthcare,minimum_variance,Zydus Life,0.037547469233387525
+Healthcare,maximum_sharpe,Sun Pharma,0.3995632993507254
+Healthcare,maximum_sharpe,Dr Reddy's,0.012152395036456766
+Healthcare,maximum_sharpe,Divi's,0.15185645130953498
+Healthcare,maximum_sharpe,Cipla,0.01177895295706674
+Healthcare,maximum_sharpe,Apollo Hospitals,0.274084654521175
+Healthcare,maximum_sharpe,Lupin,0.004958550353219565
+Healthcare,maximum_sharpe,Aurobindo Pharma,0.008985461397104768
+Healthcare,maximum_sharpe,Laurus Labs,0.11161690979780713
+Healthcare,maximum_sharpe,Biocon,0.006081850242736306
+Healthcare,maximum_sharpe,Zydus Life,0.018921475034173445
+Healthcare,eigen,Sun Pharma,0.03222889689229049
+Healthcare,eigen,Dr Reddy's,0.08842521243865371
+Healthcare,eigen,Divi's,0.09708902637227139
+Healthcare,eigen,Cipla,0.07264680430426912
+Healthcare,eigen,Apollo Hospitals,0.33460706109712746
+Healthcare,eigen,Lupin,0.013992295419278112
+Healthcare,eigen,Aurobindo Pharma,0.008816029970605056
+Healthcare,eigen,Laurus Labs,0.20222820220231574
+Healthcare,eigen,Biocon,0.14159659348846484
+Healthcare,eigen,Zydus Life,0.008369877814724256
+IT,minimum_variance,Infosys,0.10724155325304179
+IT,minimum_variance,TCS,0.5188014897974372
+IT,minimum_variance,Tech Mahindra,0.04257634143786972
+IT,minimum_variance,Wipro,0.10750927444687422
+IT,minimum_variance,HCL Tech,0.06836341807013259
+IT,minimum_variance,LTIMindtree,0.027560415087171143
+IT,minimum_variance,Mphasis,0.004663060668508178
+IT,minimum_variance,Coforge,0.00265782712703744
+IT,minimum_variance,OFSS,0.12062662011192773
+IT,maximum_sharpe,Infosys,0.02742976962302572
+IT,maximum_sharpe,TCS,0.007189724626227351
+IT,maximum_sharpe,Tech Mahindra,0.041125883496399444
+IT,maximum_sharpe,Wipro,0.02985700515613234
+IT,maximum_sharpe,HCL Tech,0.16250268227752118
+IT,maximum_sharpe,LTIMindtree,0.015283298627893488
+IT,maximum_sharpe,Mphasis,0.009295332033610625
+IT,maximum_sharpe,Coforge,0.42553251379005197
+IT,maximum_sharpe,OFSS,0.28178379036913803
+IT,eigen,Infosys,0.10284915339171717
+IT,eigen,TCS,0.13994444707188958
+IT,eigen,Tech Mahindra,0.053510562529713535
+IT,eigen,Wipro,0.07229909599016443
+IT,eigen,HCL Tech,0.09891620136477368
+IT,eigen,LTIMindtree,0.08119525615062885
+IT,eigen,Mphasis,0.21190871927516924
+IT,eigen,Coforge,0.16444383820820532
+IT,eigen,OFSS,0.07493272601773811
+Metal,minimum_variance,Tata Steel,0.006386022175813276
+Metal,minimum_variance,JSW Steel,0.3228646842851638
+Metal,minimum_variance,Adani Enterprises,0.045274038981210664
+Metal,minimum_variance,Vedanta,0.009186615063648299
+Metal,minimum_variance,Coal India,0.3791548962176077
+Metal,minimum_variance,NMDC,0.005313541696886857
+Metal,minimum_variance,Jindal Steel,0.02075999129165623
+Metal,minimum_variance,APL Apollo,0.2110602102880132
+Metal,maximum_sharpe,Tata Steel,0.029558678197540995
+Metal,maximum_sharpe,JSW Steel,0.17667385676402075
+Metal,maximum_sharpe,Adani Enterprises,0.26632283533210915
+Metal,maximum_sharpe,Vedanta,0.023260425721822645
+Metal,maximum_sharpe,Coal India,0.022989745543941297
+Metal,maximum_sharpe,NMDC,0.06944667476747388
+Metal,maximum_sharpe,Jindal Steel,0.00573509281196099
+Metal,maximum_sharpe,APL Apollo,0.40601269086113045
+Metal,eigen,Tata Steel,0.08436483633297442
+Metal,eigen,JSW Steel,0.09765659255146157
+Metal,eigen,Adani Enterprises,0.229864673349865
+Metal,eigen,Vedanta,0.042728041687578606
+Metal,eigen,Coal India,0.03528939607222818
+Metal,eigen,NMDC,0.08197189133712181
+Metal,eigen,Jindal Steel,0.06435616899698932
+Metal,eigen,APL Apollo,0.36376839967178115
