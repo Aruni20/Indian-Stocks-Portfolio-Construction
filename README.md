@@ -6,6 +6,20 @@ This project investigates long-only portfolio construction for Indian equity sec
 
 ## Results visualizations
 
+The analysis is organized as a research workflow rather than a collection of scripts. Begin with the [EDA and research design notebook](notebooks/00_eda_and_research_design.ipynb), then follow the data, fixed-portfolio, rolling-PCA, and performance notebooks in order.
+
+### Reproducibility map
+
+| Stage | Notebook | Main output |
+|---|---|---|
+| Research questions and EDA | `00_eda_and_research_design.ipynb` | Data coverage and design checks |
+| Data preparation | `01_data_preparation.ipynb` | Daily prices and returns |
+| Fixed portfolios | `02_fixed_portfolios.ipynb` | Four portfolio designs and holdout results |
+| Rolling PCA | `03_rolling_pca.ipynb` | Monthly, quarterly, half-yearly, and yearly schedules |
+| Performance analysis | `04_performance_analysis.ipynb` | Returns, risk, drawdown, and weight tables |
+
+Each notebook explains the purpose of its cells, records the assumptions, and points to the generated tables under `outputs/`.
+
 ### Rolling PCA annual returns
 
 The figure compares monthly, quarterly, half-yearly, and yearly rolling PCA rebalancing using the sector-average annual return.
