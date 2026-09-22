@@ -4,3 +4,7 @@ scipy
 scikit-learn
 matplotlib
 reportlab
+seaborn
+jupyter
+nbformat
+nbclient
