@@ -4,6 +4,20 @@
 
 This project investigates long-only portfolio construction for Indian equity sectors. It compares equal allocation, minimum-variance allocation, maximum-Sharpe allocation, and PCA-based eigen portfolios. The data pipeline converts NSE minute bars into daily prices, estimates return and covariance structure, forms constrained portfolio weights, and evaluates fixed and rolling rebalancing designs.
 
+## Results visualizations
+
+### Rolling PCA annual returns
+
+The figure compares monthly, quarterly, half-yearly, and yearly rolling PCA rebalancing using the sector-average annual return.
+
+![Rolling PCA annual returns](rolling_annual_returns.png)
+
+### Fixed six-month sector comparison
+
+This figure compares the fixed maximum-Sharpe and eigen portfolios over the completed six-month holdout experiment.
+
+![Fixed sector holdout returns](fixed_holdout_sector_returns.png)
+
 Short selling is excluded. Every implementable portfolio satisfies:
 
 $$w_i \geq 0, \qquad \sum_{i=1}^{n}w_i=1$$
